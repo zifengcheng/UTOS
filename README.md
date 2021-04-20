@@ -1,4 +1,4 @@
-# UTOS1
+# UTOS
 
 This repo contains the code of the following paper:
 

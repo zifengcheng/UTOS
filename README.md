@@ -1,6 +1,6 @@
-# UTOS
+# A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction
 
-This repo contains the code of the following paper:
+This repo contains the code of our paper:
 
 A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction
 

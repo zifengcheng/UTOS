@@ -1,6 +1,6 @@
 # A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction
 
-This repo contains the code of our paper:
+This repo contains the code of our TASLP'2021 paper:
 
 A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extraction
 

@@ -16,6 +16,3 @@ A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extr
 Run our model:
 
 python src/main.py
-
-
-

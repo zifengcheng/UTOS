@@ -16,3 +16,26 @@ A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause Pair Extr
 Run our model:
 
 python src/main.py
+
+
+## Citation
+
+If you think the codes & paper are helpful, please cite this paper. Thank you! 
+
+``` bibtex
+@article{DBLP:journals/taslp/ChengJYLG21,
+  author    = {Zifeng Cheng and
+               Zhiwei Jiang and
+               Yafeng Yin and
+               Na Li and
+               Qing Gu},
+  title     = {A Unified Target-Oriented Sequence-to-Sequence Model for Emotion-Cause
+               Pair Extraction},
+  journal   = {{IEEE} {ACM} Trans. Audio Speech Lang. Process.},
+  volume    = {29},
+  pages     = {2779--2791},
+  year      = {2021},
+  url       = {https://doi.org/10.1109/TASLP.2021.3102194},
+  doi       = {10.1109/TASLP.2021.3102194},
+}
+```
